@@ -1,4 +1,4 @@
-![bg](https://github.com/samuelmeliala/samuelmeliala/blob/main/bggif.gif)
+![bg](https://github.com/samuelmeliala/samuelmeliala/blob/main/background.gif)
 <h1> Hello, I'm Samuel 👋</h1>
 
 <p>I am a high school graduate, and am currently studying at Bina Nusantara University majoring in Computer Science, focusing in Mobile Application and Technology. Currently I am learning about Flutter Development, Cross-Platform Development, and Web Development. </p> <br>
